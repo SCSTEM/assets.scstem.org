@@ -1,2 +1,2 @@
 # assets.scstem.org
-Simple static image assets for our websites and online presence
+Simple static assets for our websites and online presence
